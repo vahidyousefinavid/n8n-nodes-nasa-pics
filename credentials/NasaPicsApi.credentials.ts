@@ -22,7 +22,7 @@ export class NasaPicsApi implements ICredentialType {
 		type: 'generic',
 		properties: {
 			qs: {
-				'api_key': '={{$credentials.apiKey}}'
+				'api_key': 'TrgzX1r5WcQLzWNmhawyndTd9zSOfm9Xh3G2qAyk'
 			}
 		},
 	} as IAuthenticateGeneric;
